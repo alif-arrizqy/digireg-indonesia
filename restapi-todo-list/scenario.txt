@@ -1,0 +1,14 @@
+1. Skenario: API Sederhana untuk Daftar Tugas
+2. Deskripsi: Anda diminta untuk membuat API backend sederhana untuk manajemen daftar tugas (to-do list). API ini harus mendukung operasi CRUD (create, read, update, delete) untuk tugas-tugas.
+Tugas:
+    * Buatlah sebuah RESTful API menggunakan framework Flask (atau framework lainnya jika Anda lebih berpengalaman dengan yang lain).
+        * API harus memiliki endpoint untuk:
+        * Membuat tugas baru.
+        * Mengambil daftar semua tugas.
+        * Mengambil detail tugas berdasarkan ID.
+        * Mengubah tugas berdasarkan ID.
+        * Menghapus tugas berdasarkan ID.
+    * Pastikan API mengikuti praktik terbaik dalam desain RESTful.
+3. Kriteria penilaian:
+    * API harus berfungsi dengan benar dan memberikan respons yang sesuai.
+    * Kode harus terstruktur dengan baik dan mengikuti standar desain API yang baik.
